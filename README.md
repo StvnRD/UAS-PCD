@@ -1,11 +1,13 @@
 # **UAS Pengolah Citra Digital - Menghitung MSE RMSE dan PSNR**<br/>
 </br>
 </br>
+</br>
 
 + **Tampilan Menu GUI**
 
 ![1](https://user-images.githubusercontent.com/56438848/126280047-4648fda3-5690-46fb-a102-f5659bff7a51.JPG)
 
+</br>
 </br>
 </br>
 
@@ -19,6 +21,7 @@
 
 </br>
 </br>
+</br>
 
 + **Citra Asli Grayscale dengan Derau Uniform  filter 3x3**
 
@@ -30,6 +33,7 @@
 
 </br>
 </br>
+</br>
 
 + **Citra Asli Grayscale dengan Derau Gaussian  filter 3x3**
 
@@ -39,6 +43,7 @@
 
 ![3 Gaussian 5x5](https://user-images.githubusercontent.com/56438848/126280106-f96d9ee6-621d-4c65-9333-f51686c93b25.JPG)
 
+</br>
 </br>
 </br>
 
