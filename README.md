@@ -1,5 +1,10 @@
 # **UAS Pengolah Citra Digital - Menghitung Nilai MSE RMSE dan PSNR**<br/>
+
 </br>
+</br>
+
+_YouTube : https://youtu.be/0jMbgvVLpWg_
+
 </br>
 </br>
 
@@ -57,8 +62,3 @@
 
 </br>
 </br>
-</br>
-</br>
-
-_YouTube_ : 
-_https://youtu.be/0jMbgvVLpWg_
