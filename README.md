@@ -1,4 +1,4 @@
-# **UAS Pengolah Citra Digital - Menghitung MSE RMSE dan PSNR**<br/>
+# **UAS Pengolah Citra Digital - Menghitung Nilai MSE RMSE dan PSNR**<br/>
 </br>
 </br>
 </br>
